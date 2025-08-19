@@ -15,6 +15,15 @@ TOP AMS 是一个专为拓竹3D打印机设计的低成本多色打印解决方�
 所以我写了一份硬件组装的入门指南,面向新手的详细教程，帮助大家快速上手这个优秀的开源项目。
  如果有不对的地方请指出.
 
+### 完整系统展示
+![TOP AMS完整系统](/guide/image/top-ams%20(3).JPG)
+
+### 挤出机
+<img src="/guide/image/top-ams-(6).jpg" style="width: 1000px;">
+
+### 控制板
+<img src="/guide/image/top-ams%20(5).jpg" style="width: 1000px;">
+
 
 ## 多色打印原理
 
@@ -40,16 +49,6 @@ ESP32控制板检测到2°C信号后，进行退料, 然后控制2号电机进�
 **简单理解**：就是用热床温度当"暗号"——温度是几度就换成几号颜色，全程自动化无需人工干预。
 
 ## 系统结构
-
-### 完整系统展示
-![TOP AMS完整系统](/guide/image/top-ams%20(3).JPG)
-
-### 挤出机
-<img src="/guide/image/top-ams-(6).jpg" style="width: 1000px;">
-
-### 控制板
-<img src="/guide/image/top-ams%20(5).jpg" style="width: 1000px;">
-
 
 TOP AMS系统主要由两大模块组成：
 
