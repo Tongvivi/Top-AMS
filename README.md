@@ -128,9 +128,10 @@ https://www.bilibili.com/video/BV1MwEGzLEhJ
 - **其他拓竹机型**：理论上完全兼容，仅需调整少量参数
 - **固件限制**：A1 Mini 1.05版本加入鉴权机制，暂不支持
 
-## 技术支持
+## 写在最后
 
-- **QQ群**：882091399
+- **TOP AMS项目目前仍在持续完善和优化中,欢迎加入QQ群一起讨论交流**
+- **QQ群**：8820913⑨九,注明来意
 - **项目地址**：https://github.com/nccrrv/Top-AMS
 - **问题反馈**：建议通过GitHub Issues提交
 
