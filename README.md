@@ -43,10 +43,10 @@ TOP AMS采用**热床温度信号**控制换色，工作流程如下：
 ![TOP AMS完整系统](/guide/image/top-ams%20(3).JPG)
 
 ### 挤出机
-<img src="/guide/image/top-ams-(6).jpg" style="width: 600px;">
+<img src="/guide/image/top-ams-(6).jpg" style="width: 1000px;">
 
 ### 控制板
-<img src="/guide/image/top-ams%20(5).jpg" style="width: 600px;">
+<img src="/guide/image/top-ams%20(5).jpg" style="width: 1000px;">
 
 
 TOP AMS系统主要由两大模块组成：
@@ -90,7 +90,7 @@ TOP AMS系统主要由两大模块组成：
 ### 控制板部分
 | 序号 | 物品 | 规格 | 数量 | 备注 |
 |------|------|------|------|------|
-| 11 | ESP32C3开发板 | 经典款 | 1块 | ⚠️必须买经典款，避免USB/GPIO冲突问题 |
+| 11 | ESP32C3开发板 经典款 | - | 1块 | ⚠️必须买经典款，避免USB/GPIO冲突问题 |
 | 12 | 电机驱动板 | DRV8833 | 2块 | 一个驱动可以控制2个电机，4通道需要2个驱动 |
 | 13 | 2.54排母 | 6P | 4个 | 用于安装电机驱动，每个驱动需要2个 |
 | 14 | 2.54排母 | 16P | 2个 | 用于安装ESP32C3开发板 |
