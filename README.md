@@ -25,7 +25,7 @@ TOP AMS 是一个专为拓竹3D打印机设计的低成本多色打印解决方�
 <img src="/guide/image/top-ams%20(5).jpg" style="width: 1000px;">
 
 ### 结果展示
-<img src="/guide/image/top-ams%20(5).jpg" style="width: 1000px;">
+<img src="/guide/image/top-ams%20(7).jpg" style="width: 1000px;">
 
 ## 多色打印原理
 
