@@ -44,7 +44,7 @@ TOP AMS采用**热床温度信号**控制换色，工作流程如下：
 
 ### 挤出机
 <img src="/guide/image/top-ams%20(2).JPG" style="width: 200px;">
-
+<img src="/guide/image/top-ams%20(2).JPG" style="width: 200px;">
 ### 控制板
 <img src="/guide/image/top-ams%20(5).jpg" style="width: 200px;">
 
