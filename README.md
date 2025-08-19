@@ -46,7 +46,7 @@ TOP AMS采用**热床温度信号**控制换色，工作流程如下：
 ![TOP AMS完整系统](/guide/image/top-ams%20(2).JPG)
 
 ### 控制板
-![TOP AMS完整系统](/guide/image/top-ams%20(5).JPG)
+![TOP AMS完整系统](/guide/image/top-ams%20(5).jpg)
 
 
 TOP AMS系统主要由两大模块组成：
