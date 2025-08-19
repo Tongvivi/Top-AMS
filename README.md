@@ -105,16 +105,19 @@ TOP AMS系统主要由两大模块组成：
 
 ## 下一步
 
-准备好材料后，请继续阅读：
-- [📖 硬件组装教程](hardware-assembly.md)
-- [⚡ 固件刷写指南](firmware-flash.md)  
-- [🔧 系统配置说明](system-config.md)
+准备好材料后, 就是硬件组装,一共3步就完成了：
 
+✅ **挤出机组装**
 N20版本挤出机安装教程
 https://www.bilibili.com/video/BV1AvtjzrECZ
 
+✅ **控制板组装**
+挺简单的,照着图片焊接就好了.就不放教程了
+
+✅ **刷入固件运行系统**
 刷机 切片修改教程
 https://www.bilibili.com/video/BV1MwEGzLEhJ
+
 
 ## 支持的打印机型号
 
